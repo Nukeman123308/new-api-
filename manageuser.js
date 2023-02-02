@@ -51,7 +51,7 @@ function oneTimePassword(){
     
         contentType: "application/text",
         dataType: 'text'
-    });
+    }); 
 
 }
 
